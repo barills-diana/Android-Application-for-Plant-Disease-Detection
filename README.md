@@ -18,4 +18,8 @@ An Android application to detect the disease and monitor the temperature and hum
 ![IMG_20220809_220246](https://user-images.githubusercontent.com/109298390/183724748-f157576c-f491-405c-8caf-e28b1799601a.jpg)
 ![IMG_20220809_220302](https://user-images.githubusercontent.com/109298390/183724825-cfa7bc6b-8c38-4396-ba46-ee07f8a004e0.jpg)
 
+![Screenshot_2022-08-09-22-00-47-586_com example pankajverma croptec_ver10](https://user-images.githubusercontent.com/109298390/183725475-bc405fe1-cd37-48b8-b311-354b0e67601f.jpg)
+![Screenshot_2022-08-09-22-00-53-152_com example pankajverma croptec_ver10](https://user-images.githubusercontent.com/109298390/183725506-4951b39f-811c-4d6e-aa64-c64f2f442e25.jpg)
+![Screenshot_2022-08-09-22-01-13-186_com android camera](https://user-images.githubusercontent.com/109298390/183725567-3ceeffc9-e58c-4d1f-a636-e71384d73017.jpg)
+![Screenshot_2022-08-09-22-01-17-362_com example pankajverma croptec_ver10](https://user-images.githubusercontent.com/109298390/183725677-243c2a4d-47f7-4dc6-aa52-afc783a59ffe.jpg)
 
