@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <TextView
+            android:text="Result Time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextClock
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/textClock"
+            android:layout_column="2" />
+
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="Disease"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:text="Blight"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="Cause"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:text="Healthy"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow>
+
+        <TextView
+            android:text="Plant"
+            android:layout_marginTop="10px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:text="Tomato"
+            android:layout_marginTop="10px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="Accuracy"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:text="95.25%"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:layout_width="102dp"
+            android:layout_height="wrap_content"
+            android:layout_column="1"
+            android:layout_marginTop="30px"
+            android:width="160px"
+            android:height="150px"
+            android:text="Temperature" />
+
+        <TextView
+            android:text=" 70F"
+            android:layout_marginTop="30px"
+            android:width="150px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+    <TableRow>
+
+        <TextView
+            android:text="Humidity "
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_column="1" />
+
+        <TextView
+            android:text="55%"
+            android:layout_marginTop="30px"
+            android:width="100px"
+            android:height="150px"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/ratingBar"
+            android:layout_column="2" />
+    </TableRow>
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"/>
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent">
+
+    </TableRow>
+
+</TableLayout>
+
+
